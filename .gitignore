@@ -1,0 +1,25 @@
+# === Java / Spring Boot ===
+target/
+*.class
+*.jar
+*.war
+*.log
+*.iml
+/.idea/
+/.vscode/
+*.DS_Store
+
+# === Environment / Config ===
+.env
+application.properties
+application.yml
+
+# === Node / React ===
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+frontend/.env
+
+# === OS generated ===
+Thumbs.db
+.DS_Store
