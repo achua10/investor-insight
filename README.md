@@ -70,8 +70,6 @@ Scikit-learn
 
 Backend / API
 
-Flask / FastAPI (depending on your implementation)
-
 RESTful API
 
 Frontend
@@ -82,7 +80,7 @@ CSS
 
 JavaScript
 
-(Optional: Bootstrap / React / etc.)
+Bootstrap
 
 📊 Features
 
